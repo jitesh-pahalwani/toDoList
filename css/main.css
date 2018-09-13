@@ -1,0 +1,28 @@
+body{
+  width: 25%;
+  margin: auto;
+  border: 3px solid black;
+  padding: 20px;
+}
+ul{
+  list-style: none;
+  padding-left: 0;
+}
+li{
+  border: 3px solid yellow;
+  background-color: yellow;
+  margin: 5px;
+  padding: 10px;
+}
+button{
+  float: right;
+  padding: 5px;
+  cursor: pointer;
+}
+input{
+  width: 85%;
+  padding: 10px;
+}
+.strikedItem{
+  text-decoration: line-through;
+}
